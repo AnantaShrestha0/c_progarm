@@ -19,7 +19,7 @@ int main(){
 	
 	
 	
-	
+	printf("asdasd");
 	
 	return 0;
 }
