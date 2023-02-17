@@ -12,6 +12,7 @@ int main(){
 			printf("odd %d\n",a[i]);
 		}
 		}
+		printf("enter the number");
 		
 		printf("hello");
 		printf("hello ji ")
