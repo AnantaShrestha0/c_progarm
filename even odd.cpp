@@ -14,7 +14,7 @@ int main(){
 		}
 		printf("enter the number");
 		
-		printf("hello");
+	
 		printf("hello ji ")
 	
 	
