@@ -12,6 +12,8 @@ int main(){
 			printf("odd %d\n",a[i]);
 		}
 		}
+		
+		printf("hello");
 	
 	
 	
