@@ -12,6 +12,6 @@ int main(){
 	}else{
 		printf("fello");
 	}
-	
+	printf("hello its me ower of this program i am changing this progarm to update in github");
 	return 0;
 }
